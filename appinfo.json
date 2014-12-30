@@ -1,0 +1,44 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Ben Nguyen",
+    "longName": "ArsenalFC",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "characterRegex": "[0-9:.]",
+                "file": "fonts/SKA_cubic01_75_CE 2.TTF",
+                "name": "SKA_CUBIC_24",
+                "trackingAdjust": 4,
+                "type": "font"
+            },
+            {
+                "characterRegex": "[0-9:.]",
+                "file": "fonts/SKA_cubic01_75_CE 2.TTF",
+                "name": "SKA_CUBIC_16",
+                "type": "font"
+            },
+            {
+                "characterRegex": "[0-9:.]",
+                "file": "fonts/SKA_cubic01_75_CE 2.TTF",
+                "name": "SKA_CUBIC_20",
+                "type": "font"
+            },
+            {
+                "file": "images/arsenal.fc.bg2.png",
+                "name": "ARSENAL_FC_BG",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "ArsenalFC",
+    "uuid": "713d0634-29f4-4ca5-bf28-938bf73dee0f",
+    "versionCode": 1,
+    "versionLabel": "1.2",
+    "watchapp": {
+        "watchface": true
+    }
+}

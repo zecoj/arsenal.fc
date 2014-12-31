@@ -11,12 +11,11 @@
             {
                 "characterRegex": "[0-9:.]",
                 "file": "fonts/SKA_cubic01_75_CE 2.TTF",
-                "name": "SKA_CUBIC_24",
-                "trackingAdjust": 4,
+                "name": "SKA_CUBIC_20",
+                "trackingAdjust": 2,
                 "type": "font"
             },
             {
-                "characterRegex": "[0-9:.]",
                 "file": "fonts/SKA_cubic01_75_CE 2.TTF",
                 "name": "SKA_CUBIC_16",
                 "type": "font"
@@ -24,7 +23,8 @@
             {
                 "characterRegex": "[0-9:.]",
                 "file": "fonts/SKA_cubic01_75_CE 2.TTF",
-                "name": "SKA_CUBIC_20",
+                "name": "SKA_CUBIC_24",
+                "trackingAdjust": 2,
                 "type": "font"
             },
             {
@@ -37,7 +37,7 @@
     "shortName": "ArsenalFC",
     "uuid": "713d0634-29f4-4ca5-bf28-938bf73dee0f",
     "versionCode": 1,
-    "versionLabel": "1.2",
+    "versionLabel": "1.3",
     "watchapp": {
         "watchface": true
     }
